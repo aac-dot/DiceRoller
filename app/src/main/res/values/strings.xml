@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="roll">roll</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="count_up">COUNT UP</string>
+    <string name="dice_rolled_in_main_activity">Dice rolled</string>
+    <string name="the_image_of_dice_description">The image of dice</string>
+</resources>
